@@ -1,1 +1,1 @@
-# ACC_FuelCalculator
+# Fuel calculator for Assetto Corsa Competizione
